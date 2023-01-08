@@ -1,0 +1,53 @@
+normal
+Media 5 vezes: 0.5374358974358974
+
+negativo
+Media 5 vezes: 0.5184615384615384
+
+alargamento de contraste k=200 E=0.25
+Media 5 vezes: 0.33461538461538465
+
+alargamento de contraste k=200 E=2
+Media 5 vezes: 0.33615384615384614
+
+alargamento de contraste k=200 E=4
+Media 5 vezes: 0.32846153846153847
+
+alargamento de contraste k=200 E=6
+Media 5 vezes: 0.3294871794871795
+
+alargamento de contraste k=100 E=0.5
+Media 5 vezes: 0.3856410256410256
+
+alargamento de contraste k=140 E=0.5
+Media 5 vezes: 0.41461538461538466
+
+alargamento de contraste k=180 E=0.5
+Media 5 vezes: 0.4025641025641026
+
+alargamento de contraste k=200 E=0.5
+Media 5 vezes: 0.3433333333333334
+
+transformacao logaritmica c=1
+Media 5 vezes: 0.6087179487179487
+
+transformacao logaritmica c=3
+Media 5 vezes: 0.6017948717948718
+
+transformacao logaritmica c=5
+Media 5 vezes: 0.6094871794871796
+
+transformacao logaritmica c=7
+Media 5 vezes: 0.5979487179487181
+
+transformacao potencia y=0.35
+Media 5 vezes: 0.6269230769230769
+
+transformacao potencia y=0.4
+Media 5 vezes: 0.6243589743589744
+
+transformacao potencia y=0.45
+Media 5 vezes: 0.6282051282051282
+
+transformacao potencia y=0.5
+Media 5 vezes: 0.6371794871794871
