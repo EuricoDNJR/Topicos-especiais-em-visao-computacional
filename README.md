@@ -46,7 +46,8 @@ iv. Adicione imagens que justifiquem suas explicações.
 -- A pasta relacionada a esta atividade tem o nome *shortpaper*.
 
 Por fim, foi solicitado a mim e a equipe que filtrassemos nosso conhecimento obtido durante toda a matéria de modo a criar um artigo para a SBC. O mesmo está situado na pasta *article_final_code* e o seu respectivo código.
-Créditos a minha equipe: 
+Créditos a minha equipe e amigos: 
 * Lucas Silva Lopes 
 * Jeanderson Gomes
+
 Foi um prazer trabalhar com vocês :) .
